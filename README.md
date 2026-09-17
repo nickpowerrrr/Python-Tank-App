@@ -29,4 +29,6 @@ Then a graph will be made and be shown on screen using matplotLib which makes a 
 2. Download modules: ```Tkinter, matplotLib, shutil, Tkinter```
 3. run app.py
 
+# Preview
 
+![Preview](preview/preview.gif)
