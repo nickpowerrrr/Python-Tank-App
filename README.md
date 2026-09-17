@@ -10,7 +10,7 @@ Processes XML's  back into a terminal and forms a funny graph
 # Features
 * a commandline showing all the stats of the tanks ```CLI```
 * a small UI that has a button you can click to show the graph
-* a script that processes each ```tank``` from an XML file, then it returns its ```name average score``` and ```average distance```
+* a script that processes each ```tank``` from an XML file, then it returns its ```name``` ```average score``` and ```average distance```
 
 # How it works
 Opening ```app.py``` will start the application and upon clicking "Show Graph" it will make the graph and the data in comamnd line,
